@@ -11,9 +11,6 @@ Hey there, I'm Abolfazl
 <a href="https://www.linkedin.com/in/SabziDev1">
 <img width="110" src="https://github.com/SabziDev/SabziDev/blob/main/assets/linkedin-svg.svg" alt="My LinkedIn"/>
 </a>
-<a href="https://instagram.com/SabziDev">
-<img width="150" src="https://github.com/SabziDev/SabziDev/blob/main/assets/instagram-svg.svg" alt="My Instagram"  />
-</a>
 <a href="https://t.me/SabziDev">
 <img width="140" src="https://github.com/SabziDev/SabziDev/blob/main/assets/telegram-svg.svg" alt="My Telegram"  />
 </a>
