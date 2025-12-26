@@ -69,7 +69,7 @@
 
   > |&nbsp;&nbsp;<i>Canvas</i>&nbsp;&nbsp;|<i>WebSocket</i>|
 > |:--:|:-------:|
-> |<img title="Canvas" alt="Canvass" src="./assets/canvas-icon.svg" width="75" alt="Canvas" />| <img title="WebSocket" alt="WebSocket" src="./assets/websocket-icon.svg" width="75" alt="Web Socket" />|
+> |<img title="Canvas" alt="Canvass" src="./assets/canvas-icon.svg" width="68" alt="Canvas" />| <img title="WebSocket" alt="WebSocket" src="./assets/websocket-icon.svg" width="68" alt="Web Socket" />|
 
   <br />
   <br />
