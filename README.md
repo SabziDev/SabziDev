@@ -15,7 +15,7 @@
       <img width="126" src="./assets/youtube.svg" alt="📺 My YouTube: [ SabziDev ]" />
     </a>
     <a href="https://instagram.com/SabziDev">
-      <img width="150" src="./assets/insta.svg" alt="📸 My Instagram: [ SabziDev ]" />
+      <img width="150" src="./assets/instagram-svg.svg" alt="📸 My Instagram: [ SabziDev ]" />
     </a>
     <a href="https://t.me/SabziDev">
       <img width="140" src="./assets/telegram-svg.svg" alt="🚀 My Telegram: [ SabziDev ]" />
