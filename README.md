@@ -61,9 +61,9 @@
   <h2 align="left" id="skills"><img align="center" src="./assets/skills-coding.gif" width="40" alt="💻" /> <i>My Skills</i></h2>
   <br />
 
-  > |&nbsp;&nbsp;&nbsp;<i>HTML</i>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>CSS</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<i>Bootstrap</i>|&nbsp;&nbsp;<i>Tailwind</i>&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>JS</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<i>React</i>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Git</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<i>GitHub</i>&nbsp;&nbsp;&nbsp;|
-> |:---------------------:|:---------------------:|:---------:|:--------------:|:--------------------:|:-----------------:|:---------------------:|:------------:|
-> |<img title="HTML" alt="HTML" src="./assets/html-icon.svg" width="80" /> | <img title="CSS" alt="CSS" src="./assets/css-icon.svg" width="80" /> | <img title="Bootstrap" alt="Bootstrap" src="./assets/bootstrap-icon.svg" width="80" /> | <img title="Tailwind" alt="Tailwind" src="./assets/tailwind-icon.svg" width="80" /> | <img title="JS" alt="JS" src="./assets/js-icon.svg" width="80" /> | <img title="React" alt="React" src="./assets/react-icon.svg" width="80" /> | <img title="Git" alt="Git" src="./assets/git-icon.svg" width="80" /> | <img title="GitHub" alt="GitHub" src="./assets/github-icon.svg" width="80" />|
+  > |&nbsp;&nbsp;&nbsp;<i>HTML</i>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>CSS</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<i>Bootstrap</i>|&nbsp;&nbsp;<i>Tailwind</i>&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>JS</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<i>React</i>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Git</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+> |:---------------------:|:---------------------:|:---------:|:--------------:|:--------------------:|:-----------------:|:---------------------:|
+> |<img title="HTML" alt="HTML" src="./assets/html-icon.svg" width="80" /> | <img title="CSS" alt="CSS" src="./assets/css-icon.svg" width="80" /> | <img title="Bootstrap" alt="Bootstrap" src="./assets/bootstrap-icon.svg" width="80" /> | <img title="Tailwind" alt="Tailwind" src="./assets/tailwind-icon.svg" width="80" /> | <img title="JS" alt="JS" src="./assets/js-icon.svg" width="80" /> | <img title="React" alt="React" src="./assets/react-icon.svg" width="80" /> | <img title="Git" alt="Git" src="./assets/git-icon.svg" width="80" /> |
 
 <br />
 
