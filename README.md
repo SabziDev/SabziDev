@@ -6,7 +6,7 @@
       <img width="105" src="./assets/email-svg.svg" alt="📧 My Email: SabziDev@gmail.com" />
     </a>
     <a href="https://www.linkedin.com/in/SabziDev2">
-      <img width="110" src="./assets/linkedin-svg.svg" alt="💼 My LinkedIn ID: [ SabziDev2 ]" />
+      <img width="110" src="./assets/linkedin-svg.svg" alt="💼 My LinkedIn: [ SabziDev2 ]" />
     </a>
     <a href="https://x.com/SabziDev">
       <img width="150" src="./assets/x.svg" alt="🕊 My X/Twitter: [ SabziDev ]" />
