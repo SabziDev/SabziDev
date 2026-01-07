@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1><img align="center" src="./assets/coding.gif" width="30" height="30" alt="👨‍💻"/> Hey there, I'm Abolfazl<img alt="👋" src="./assets/hi-emoji.gif" width="30"/>
+  <h1><img align="center" src="./assets/coding.gif" width="30" height="30" alt="👨‍💻"/> Hey there, I'm <strong>Abolfazl Sabzmohammadi</strong><img alt="👋" src="./assets/hi-emoji.gif" width="30"/>
   </h1>
   <div id="badges">
     <a href="mailto:SabziDev@gmail.com?subject=Collaboration همکاری&body=Hello, I'm sending you a message for collaboration! سلام جهت همکاری پیام میدم!">
@@ -34,13 +34,13 @@
 <hr />
 <div>
   <h2 align="left" id="about-me"><img align="center" src="./assets/ring-abotme.gif" width="50" alt="🪐" /> <i>About Me</i></h2>
-  I'm a creative and energetic <b>web developer</b>
+  I'm a creative and energetic <strong>web developer</strong>
   <img src="./assets/cat-coding.gif" width="30" alt="💻🐈‍⬛" /> from Iran🇮🇷.
   <br />
   <br />
 
   - I have been working in this field for <b>over 1 year</b>! 💻
-  - <b>I work as a front-end developer</b>, focusing on building client-side web applications using modern libraries like <b>React.js</b>. 🔭
+  - <b>I work as a <strong>front-end developer</strong></b>, focusing on building client-side web applications using modern libraries like <b>React.js</b>. 🔭
   <br />
   <span>-</span> And in my opinion:
   <br />
