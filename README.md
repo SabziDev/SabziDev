@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1><img align="center" src="./assets/coding.gif" width="30" height="30" alt="👨‍💻"/> Hey there, I'm <strong>Abolfazl Sabzmohammadi</strong><img alt="👋" src="./assets/hi-emoji.gif" width="30"/>
+  <h1><img align="center" src="./assets/coding.gif" width="30" height="30" alt="👨‍💻"/> Hey there, I'm <strong>Abolfazl</strong><img alt="👋" src="./assets/hi-emoji.gif" width="30"/>
   </h1>
   <div id="badges">
     <a href="mailto:SabziDev@gmail.com?subject=Collaboration همکاری&body=Hello, I'm sending you a message for collaboration! سلام جهت همکاری پیام میدم!">
