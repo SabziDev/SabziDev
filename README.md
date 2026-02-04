@@ -28,9 +28,7 @@
   <br />
   <img src="./assets/sheep.gif" width="400" alt="👨‍💻" />
 </div>
-<div align="center">
-  <img src="./assets/my-info.png" width="100%" height="280" alt="firstName => Abolfazl; lastName => Sabzmohammadi; age => 2008/8/28 || 1387/6/7; gender => Male; location => Tehran, Iran🇮🇷; job => front-end Developer" />
-</div>
+
 <hr />
 <div>
   <h2 align="left" id="about-me"><img align="center" src="./assets/ring-abotme.gif" width="50" alt="🪐" /> <i>About Me</i></h2>
@@ -38,7 +36,6 @@
   <img src="./assets/cat-coding.gif" width="30" alt="💻🐈‍⬛" /> from Iran🇮🇷.
   <br />
   <br />
-
   - I have been working in this field for <b>over 1 year</b>! 💻
   - <b>I work as a <strong>front-end developer</strong></b>, focusing on building client-side web applications using modern libraries like <b>React.js</b>. 🔭
   <br />
