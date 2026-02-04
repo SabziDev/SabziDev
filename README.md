@@ -37,7 +37,7 @@
   <br />
   <br />
   - I have been working in this field for <b>over 1 year</b>! 💻
-  - <b>I work as a <strong>front-end developer</strong></b>, focusing on building client-side web applications using modern libraries like <b>React.js</b>. 🔭
+  - <b>I work as a <strong>front-end developer</strong></b>, focusing on building client-side web applications. 🔭
   <br />
   <span>-</span> And in my opinion:
   <br />
