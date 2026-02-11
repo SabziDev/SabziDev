@@ -1,3 +1,8 @@
+<!--  > |&nbsp;&nbsp;&nbsp;<i>HTML</i>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>CSS</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<i>Bootstrap</i>|&nbsp;&nbsp;<i>Tailwind</i>&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>JS</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<i>React</i>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Git</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| -->
+
+ <!-- |:---------------------:|:---------------------:|:---------:|:--------------:|:--------------------:|:-----------------:|:---------------------:| -->
+
+<!-- > |<img title="HTML" alt="HTML" src="./assets/html-icon.svg" width="80" /> | <img title="CSS" alt="CSS" src="./assets/css-icon.svg" width="80" /> | <img title="Bootstrap" alt="Bootstrap" src="./assets/bootstrap-icon.svg" width="80" /> | <img title="Tailwind" alt="Tailwind" src="./assets/tailwind-icon.svg" width="80" /> | <img title="JS" alt="JS" src="./assets/js-icon.svg" width="80" /> | <img title="React" alt="React" src="./assets/react-icon.svg" width="80" /> | <img title="Git" alt="Git" src="./assets/git-icon.svg" width="80" /> | -->
 <div id="header" align="center">
   <h1><img align="center" src="./assets/coding.gif" width="30" height="30" alt="👨‍💻"/> Hey there, I'm <strong>Abolfazl</strong><img alt="👋" src="./assets/hi-emoji.gif" width="30"/>
   </h1>
@@ -59,15 +64,15 @@
   <h2 align="left" id="skills"><img align="center" src="./assets/skills-coding.gif" width="40" alt="💻" /> <i>My Skills</i></h2>
   <br />
 
-  > |&nbsp;&nbsp;&nbsp;<i>HTML</i>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>CSS</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<i>Bootstrap</i>|&nbsp;&nbsp;<i>Tailwind</i>&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>JS</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<i>React</i>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Git</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-> |:---------------------:|:---------------------:|:---------:|:--------------:|:--------------------:|:-----------------:|:---------------------:|
-> |<img title="HTML" alt="HTML" src="./assets/html-icon.svg" width="80" /> | <img title="CSS" alt="CSS" src="./assets/css-icon.svg" width="80" /> | <img title="Bootstrap" alt="Bootstrap" src="./assets/bootstrap-icon.svg" width="80" /> | <img title="Tailwind" alt="Tailwind" src="./assets/tailwind-icon.svg" width="80" /> | <img title="JS" alt="JS" src="./assets/js-icon.svg" width="80" /> | <img title="React" alt="React" src="./assets/react-icon.svg" width="80" /> | <img title="Git" alt="Git" src="./assets/git-icon.svg" width="80" /> |
+  > |&nbsp;&nbsp;&nbsp;<i>HTML</i>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>CSS</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<i>Bootstrap</i>|&nbsp;&nbsp;<i>Tailwind</i>&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>JS</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Git</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+> |:---------------------:|:---------------------:|:---------:|:--------------:|:--------------------:|:---------------------:|
+> |<img title="HTML" alt="HTML" src="./assets/html-icon.svg" width="80" /> | <img title="CSS" alt="CSS" src="./assets/css-icon.svg" width="80" /> | <img title="Bootstrap" alt="Bootstrap" src="./assets/bootstrap-icon.svg" width="80" /> | <img title="Tailwind" alt="Tailwind" src="./assets/tailwind-icon.svg" width="80" /> | <img title="JS" alt="JS" src="./assets/js-icon.svg" width="80" /> | <img title="Git" alt="Git" src="./assets/git-icon.svg" width="80" /> |
 
 <br />
 
-  > |&nbsp;&nbsp;<i>Canvas</i>&nbsp;&nbsp;|<i>WebSocket</i>|
+<!--  > |&nbsp;&nbsp;<i>Canvas</i>&nbsp;&nbsp;|<i>WebSocket</i>|
 > |:--:|:-------:|
-> |<img title="Canvas" alt="Canvass" src="./assets/canvas-icon.svg" width="68" alt="Canvas" />| <img title="WebSocket" alt="WebSocket" src="./assets/websocket-icon.svg" width="68" alt="Web Socket" />|
+> |<img title="Canvas" alt="Canvass" src="./assets/canvas-icon.svg" width="68" alt="Canvas" />| <img title="WebSocket" alt="WebSocket" src="./assets/websocket-icon.svg" width="68" alt="Web Socket" />| -->
 
   <br />
   <br />
