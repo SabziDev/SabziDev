@@ -8,7 +8,7 @@
         <a href="https://SabziDev.com"><img src="./assets/images/social-medias/web.svg" alt="Website (resume)" width="88" /></a>
         <a href="https://linkedin.com/in/SabziDev2"><img src="./assets/images/social-medias/linkedin.svg" alt="LinkedIn" width="70" /></a>
         <a href="https://x.com/SabziDev"><img src="./assets/images/social-medias/x.svg" alt="X" width="102" /></a>
-        <a href="https://youtube.com/SabziDev"><img src="./assets/images/social-medias/youtube.svg" alt="YouTube" width="85" /></a>
+        <!-- <a href="https://youtube.com/SabziDev"><img src="./assets/images/social-medias/youtube.svg" alt="YouTube" width="85" /></a> -->
         <a href="https://instagram.com/SabziDev"><img src="./assets/images/social-medias/instagram.svg" alt="Instagram" width="100" /></a>
         <a href="https://t.me/SabziDev"><img src="./assets/images/social-medias/telegram.svg" alt="Telegram" width="90" /></a>
     </div>
