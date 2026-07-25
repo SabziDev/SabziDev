@@ -18,7 +18,7 @@
 
   <!-- Skills -->
   <div align="left">
-    <h2><img src="./assets/images/etc/coding.gif" alt="💻" width="40" align="center" /> <i>Skills</i></h3>
+    <h2><img src="./assets/images/etc/coding.gif" alt="💻" width="38" align="center" /><i>Skills</i></h2>
     <div>
       <img title="Tailwind" src="./assets/images/skills/frameworks/tailwind.svg" alt="Tailwind" width="60" />
       <img title="JS" src="./assets/images/skills/langs/js.svg" alt="JS" width="60" />
